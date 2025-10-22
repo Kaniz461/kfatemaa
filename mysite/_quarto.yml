@@ -1,30 +1,31 @@
 project:
   type: website
-  output-dir: ../docs
-  render: 
-    - "*.qmd"               
-  resources: 
-    - assets/**               
+  output-dir: docs          # <-- use 'docs' inside repo root
+  render:
+    - "*.qmd"
+  resources:
+    - images/**             # include the images folder (or use assets/** if you move images there)
 
-execute: 
-  freeze: auto   
+execute:
+  freeze: auto
 
 website:
   title: "KANIZ FATEMA"
   site-url: https://kaniz461.github.io/kfatemaa/
-  search: true                   # allows users to search your site
+  search: true
   navbar:
+    logo: images/kaniz_profile.jpg   # <-- use lowercase extension and correct relative path
     collapse-below: lg
     right:
       - href: index.qmd
         text: Home
-      - href: research.qmd       # add new files for each new page
+      - href: research.qmd
         text: Research
-      - href: publication.qmd       # add new files for each new page
+      - href: publication.qmd
         text: Publication
       - href: about.qmd
         text: About
-      - icon: github             # can add social media icons
+      - icon: github
         href: https://github.com/Kaniz461/kfatemaa
         aria-label: GitHub
 
@@ -35,6 +36,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
