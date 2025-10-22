@@ -14,7 +14,6 @@ website:
   site-url: https://kaniz461.github.io/kfatemaa/
   search: true
   navbar:
-    logo: /images/kaniz_profile.jpg
     collapse-below: lg
     right:
       - href: about.qmd
