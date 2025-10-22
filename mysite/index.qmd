@@ -1,7 +1,7 @@
 ---
 title: "mysite"
 ---
-![](images/kaniz_profile.jpg){fig-align="center" width="250px" caption="Kaniz Fatema"}
+
 
 This is a Quarto website.
 
