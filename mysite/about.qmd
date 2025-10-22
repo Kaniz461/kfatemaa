@@ -21,7 +21,7 @@ Department of Statistics • School of College of Arts and Sciences<br>
 
 <p>
   <strong>Email:</strong>
-  <a href="mailto:kfatema@yourdomain.edu">kfatema@yourdomain.edu</a>
+  <a href="mailto:kfatema@email.sc.edu">kfatema@yourdomain.edu</a>
   &nbsp; • &nbsp;
   <a href="https://github.com/Kaniz461/kfatemaa" target="_blank">GitHub</a>
   &nbsp; / &nbsp;
