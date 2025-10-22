@@ -11,21 +11,21 @@ execute:
   freeze: auto
 
 website:
+  title: "KANIZ FATEMA"
   site-url: https://kaniz461.github.io/kfatemaa/
   search: true
   navbar:
     collapse-below: lg
     right:
-      - href: about.qmd
-        text: About
       - href: research.qmd
         text: Research
       - href: publication.qmd
         text: Publication
+      - href: about.qmd
+        text: About
       - icon: github
         href: https://github.com/Kaniz461/kfatemaa
         aria-label: GitHub
-
 
 format:
   html:
