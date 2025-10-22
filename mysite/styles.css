@@ -1,18 +1,19 @@
-/* profile photo styling */
 .profile-photo {
-  border-radius: 12px;
+  border-radius: 10px;
   max-width: 220px;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
-  display: inline-block;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
 }
 
-/* make lead paragraph slightly larger */
 .lead {
   font-size: 1.05rem;
   color: #333;
 }
 
-/* smaller screens: center the image and add space */
+.container {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
 @media (max-width: 767px) {
   .profile-photo {
     display: block;
