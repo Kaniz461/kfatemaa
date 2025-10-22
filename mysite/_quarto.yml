@@ -17,14 +17,12 @@ website:
     logo: /images/kaniz_profile.jpg
     collapse-below: lg
     right:
-      - href: index.qmd
-        text: Home
+      - href: about.qmd
+        text: About
       - href: research.qmd
         text: Research
       - href: publication.qmd
         text: Publication
-      - href: about.qmd
-        text: About
       - icon: github
         href: https://github.com/Kaniz461/kfatemaa
         aria-label: GitHub
