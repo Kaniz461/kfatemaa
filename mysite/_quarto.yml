@@ -5,6 +5,7 @@ project:
     - "*.qmd"
   resources:
     - mysite/images/**
+    - mysite/files/**
 
 execute:
   freeze: auto
