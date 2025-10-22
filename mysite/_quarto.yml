@@ -4,8 +4,8 @@ project:
   render:
     - "*.qmd"
   resources:
-    - mysite/images/**
-    - mysite/files/**
+    - images/**
+    - files/**
 
 execute:
   freeze: auto
