@@ -2,7 +2,9 @@ project:
   type: website
   output-dir: ../docs
   render: 
-    - "*.qmd"               # render real site pages
+    - "*.qmd"               
+  resources: 
+    - assets/**               
 
 execute: 
   freeze: auto   
