@@ -1,10 +1,10 @@
 project:
   type: website
-  output-dir: docs          # <-- use 'docs' inside repo root
+  output-dir: ../docs
   render:
     - "*.qmd"
   resources:
-    - images/**             # include the images folder (or use assets/** if you move images there)
+    - mysite/images/**
 
 execute:
   freeze: auto
@@ -14,7 +14,7 @@ website:
   site-url: https://kaniz461.github.io/kfatemaa/
   search: true
   navbar:
-    logo: images/kaniz_profile.jpg   
+    logo: mysite/images/kaniz_profile.jpg
     collapse-below: lg
     right:
       - href: index.qmd
@@ -28,11 +28,3 @@ website:
       - icon: github
         href: https://github.com/Kaniz461/kfatemaa
         aria-label: GitHub
-
-format:
-  html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
