@@ -11,7 +11,7 @@ format: html
 </div>
 
 <div class="col-md-9">
-<h1><strong>Kaniz</strong> Fatema</h1>
+<h1><strong>KANIZ</strong> FATEMA</h1>
 
 <p class="lead">
 Ph.D. Student in Statistics<br>
