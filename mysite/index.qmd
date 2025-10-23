@@ -3,56 +3,51 @@ title: "KANIZ FATEMA"
 format: html
 ---
 
+::: {=html}
 <div class="container">
+  <div class="row align-items-start mb-4">
+    <div class="col-md-3 text-center">
+      <!-- Profile photo -->
+      <img src="images/kaniz_profile.jpg" alt="Kaniz Fatema" class="profile-photo img-fluid rounded" />
+    </div>
 
-<div class="row align-items-start mb-4">
-  <!-- left: profile photo -->
-  <div class="col-md-3 text-center">
-    <img src="images/kaniz_profile.jpg" alt="Kaniz Fatema" class="profile-photo img-fluid rounded" />
+    <div class="col-md-9">
+      <h1><strong>KANIZ</strong> FATEMA</h1>
+      <p class="lead mb-1">
+        Ph.D. Student in Statistics<br/>
+        Department of Statistics • School of College of Arts and Sciences<br/>
+        <em>University of South Carolina</em>
+      </p>
+
+      <p class="contact-line mt-2 mb-2">
+        <strong>Email:</strong>
+        <a href="mailto:kfatema@email.sc.edu">kfatema@email.sc.edu</a>
+        &nbsp; • &nbsp;
+        <a href="https://github.com/Kaniz461/kfatemaa" target="_blank">GitHub</a>
+        &nbsp; • &nbsp;
+        <a href="https://www.linkedin.com/in/kaniz-fatema-229186228/" target="_blank">LinkedIn</a>
+        &nbsp; • &nbsp;
+        <a href="files/kaniz_resume.pdf" target="_blank">CV</a>
+        &nbsp; • &nbsp;
+        <a href="#" target="_blank">Google Scholar</a>
+      </p>
+    </div>
   </div>
 
-  <!-- right: name, affiliation, contact, links -->
-  <div class="col-md-9">
-  
-  # **Kaniz** Fatema
+  <hr/>
 
-  <p class="lead mb-1">
-  Ph.D. Student in Statistics<br/>
-  Department of Statistics • School of College of Arts and Sciences<br/>
-  <em>University of South Carolina</em>
-  </p>
+  <div class="row">
+    <div class="col-12">
+      <p><strong>Update:</strong> Back at CMU after an internship at Microsoft Research.</p>
+      <p>Hi! I am a Ph.D. student in Statistics at University of South Carolina. During my Ph.D., I have worked on safe robot learning, large language models, and AI safety.</p>
 
-  <p class="contact-line mt-2 mb-2">
-  <strong>Email:</strong> <a href="mailto:kfatema@email.sc.edu">kfatema@email.sc.edu</a>
-   &nbsp; • &nbsp;
-  <a href="https://github.com/Kaniz461/kfatemaa" target="_blank">GitHub</a>
-   &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/kaniz-fatema-229186228/" target="_blank">LinkedIn</a>
-   &nbsp; • &nbsp;
-  <a href="files/kaniz_resume.pdf" target="_blank">CV</a>
-   &nbsp; • &nbsp;
-  <a href="#" target="_blank">Google Scholar</a>
-  </p>
-
+      <h4>Research Interests</h4>
+      <ul>
+        <li>Safe and robust robot learning</li>
+        <li>Reinforcement learning and control barrier functions</li>
+        <li>Foundation models for embodied AI</li>
+      </ul>
+    </div>
   </div>
 </div>
-
-<hr/>
-
-<!-- Updates and intro -->
-<div class="row">
-  <div class="col-12">
-    <p><strong>Update:</strong> Back at CMU after an internship at Microsoft Research.</p>
-
-    <p>Hi! I am a Ph.D. student in Statistics at University of South Carolina. During my Ph.D., I have worked on ...</p>
-
-    <h4>Research Interests</h4>
-    <ul>
-      <li>Safe and robust robot learning</li>
-      <li>Reinforcement learning and control barrier functions</li>
-      <li>Foundation models for embodied AI</li>
-    </ul>
-  </div>
-</div>
-
-</div>
+:::
