@@ -32,3 +32,29 @@ a:hover {
 .quarto-container h1 strong {
   font-weight: 900;
 }
+/* Hide Quarto's default title block for this page layout (if present) */
+.quarto-title-block.default { display: none; }
+
+/* Name styling in the right column */
+.quarto-container h1 {
+  font-size: 3rem;         /* adjust to match the look you want */
+  line-height: 1;
+  margin: 0 0 0.4rem 0;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+/* extra emphasis for first name (bold) */
+.quarto-container h1 strong {
+  font-weight: 900;
+}
+
+/* smaller lead paragraph spacing for the right column */
+.quarto-container .lead {
+  margin-bottom: 0.6rem;
+  font-size: 1.05rem;
+}
+
+/* contact link style spacing */
+.contact-links { margin-top: 0.4rem; }

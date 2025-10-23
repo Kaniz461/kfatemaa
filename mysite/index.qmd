@@ -1,25 +1,32 @@
 ---
-title: "About"
+title: ""             # keep this empty so Quarto doesn't show the default page title
 format: html
 ---
 
 ::: {layout="[35,65]"}
 ![](images/kaniz_profile.jpg){fig-alt="Kaniz Fatema" width=300px style="border-radius: 8px;"}
 
+<div class="d-flex align-items-center" markdown="1">
+
 # **KANIZ** FATEMA
 
-<p class="lead">
+<p class="lead mb-1">
 Ph.D. Student in Statistics  
 [Department of Statistics](https://sc.edu/study/colleges_schools/artsandsciences/statistics/)  
 [School of College of Arts and Sciences](https://sc.edu/study/colleges_schools/artsandsciences/)  
 [University of South Carolina](https://www.sc.edu/)
 </p>
 
-<p>
-kfatema@email.sc.edu  
-[CV](files/kaniz_resume.pdf) • [GitHub](https://github.com/Kaniz461/kfatemaa) • [LinkedIn](https://www.linkedin.com/in/kaniz-fatema-229186228/)
+<p class="contact-links">
+kfatema@email.sc.edu &nbsp; • &nbsp;
+[CV](files/kaniz_resume.pdf) &nbsp;•&nbsp;
+[GitHub](https://github.com/Kaniz461/kfatemaa) &nbsp;•&nbsp;
+[LinkedIn](https://www.linkedin.com/in/kaniz-fatema-229186228/)
 </p>
+
+</div>
 :::
+
 
 ---
 
