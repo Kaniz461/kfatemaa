@@ -6,36 +6,34 @@ title: ""
 ![](images/kaniz_profile.jpg){fig-alt="Kaniz Fatema" width=300px style="border-radius: 8px;"}
 
 <div>
-<h1 class="site-name"><strong>Kaniz</strong> Fatema</h1>
+<h1 style="font-size: 2.5em; margin-bottom: 0.3em;"><strong>Kaniz</strong> Fatema</h1>
 
-  <p class="lead contact-affil">
-    Ph.D. Student in Statistics<br/>
-    <a href="https://sc.edu/study/colleges_schools/artsandsciences/statistics/">Department of Statistics</a><br/>
-    <a href="https://sc.edu/study/colleges_schools/artsandsciences/">School of College of Arts and Sciences</a><br/>
-    <a href="https://www.sc.edu/">University of South Carolina</a>
-  </p>
+Ph.D. Student in Statistics  
+[Department of Statistics](https://sc.edu/study/colleges_schools/artsandsciences/statistics/)  
+[School of College of Arts and Sciences](https://sc.edu/study/colleges_schools/artsandsciences/)  
+[University of South Carolina](https://www.sc.edu/)
 
-kfatema@email.sc.edu  
-[CV](files/kaniz_resume.pdf) / [Github](https://github.com/Kaniz461) / [LinkedIn](https://www.linkedin.com/in/kaniz-fatema-229186228/)
+kfatema [at] email [dot] sc [dot] edu  
+[CV](files/kaniz_resume.pdf) / [Google Scholar](#) / [LinkedIn](https://www.linkedin.com/in/kaniz-fatema-229186228/)
 </div>
 :::
 
 ---
 
-**Update:** [Your latest news - e.g., "Currently working on [project name] focusing on [topic] for my dissertation research!"]
+**Update:** Currently working on [project name] focusing on [topic] for my dissertation research!
 
-**Update 2:** [Another recent update - e.g., "Presented my work on [topic] at [conference name] in [month year]. Looking forward to [upcoming plans]!"]
+**Update 2:** Presented my work on [topic] at [conference name] in [month year]. Looking forward to [upcoming plans]!
 
-Hi! I am a Ph.D. student in Statistics at [University of South Carolina](https://www.sc.edu/) advised by [Dr. Advisor Name](link). During my Ph.D., I have [mention any internships, research assistantships, or teaching experience]. I was also a [previous position/role] with [organization/lab] working on [brief description of work].
+Hi! I am a Ph.D. student in Statistics at [University of South Carolina](https://www.sc.edu/) advised by [Dr. Advisor Name](link). During my Ph.D., I have worked as a Graduate Research/Teaching Assistant and have experience with [mention specific areas]. I was also a [previous position/role] with [organization/lab] working on [brief description of work].
 
-I am interested in [your research interests - be specific about statistical methods, applications, or fields]. My focus has been on [specific areas you're working on - e.g., Bayesian methods, machine learning, time series analysis, etc.]. My past work has been focused on:
+I am interested in statistical modeling, machine learning applications, and data analysis. My focus has been on [specific areas you're working on - e.g., Bayesian methods, time series analysis, predictive modeling, etc.]. My research includes:
 
 1. **Statistical modeling and inference**
-   - [Specific project or method with link to paper/project]
+   - [Specific project or method - add link if available]
    - [Another contribution]
 
 2. **Data analysis and visualization**
-   - [Specific work with link]
+   - [Specific work with R/Python/other tools]
 
 3. **Applied statistics in [field]**
    - [Specific application or project]
