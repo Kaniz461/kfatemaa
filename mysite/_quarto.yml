@@ -31,7 +31,8 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: cosmo
+      dark: darkly
+    toggle: true
     css: styles.css
     toc: true
