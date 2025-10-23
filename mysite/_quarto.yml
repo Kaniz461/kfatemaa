@@ -13,15 +13,13 @@ execute:
   freeze: auto
 
 website:
-  title: "KANIZ FATEMA"
   site-url: "https://kaniz461.github.io/kfatemaa/"
   search: true
   navbar:
     collapse-below: lg
-    left:
+    right:
       - href: index.qmd
         text: Home
-    right:
       - href: research.qmd
         text: Research
       - href: project.qmd
