@@ -47,7 +47,7 @@ a:hover {
 
 /* extra emphasis for first name (bold) */
 .quarto-container h1 strong {
-  font-weight: 900;
+  font-weight: 800;
 }
 
 /* smaller lead paragraph spacing for the right column */
@@ -58,3 +58,11 @@ a:hover {
 
 /* contact link style spacing */
 .contact-links { margin-top: 0.4rem; }
+/* add to mysite/styles.css (or docs/styles.css if you prefer) */
+.profile-name {
+  font-size: 2.5rem;
+  font-weight: 700;
+  letter-spacing: .02em;
+  margin: 0;
+}
+
