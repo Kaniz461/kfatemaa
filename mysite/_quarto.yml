@@ -26,7 +26,7 @@ website:
       - href: publication.qmd
         text: Publication
       - icon: github
-        href: https://github.com/Kaniz461/kfatemaa
+        href: https://github.com/Kaniz461
         aria-label: GitHub
 
 format:
