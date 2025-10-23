@@ -1,20 +1,26 @@
 project:
   type: website
+  # build output goes to ../docs (so repo root has docs/)
   output-dir: ../docs
   render:
     - "*.qmd"
-  resources:
-    - images/**
-    - files/**
+
+resources:
+  - images/**
+  - files/**
 
 execute:
   freeze: auto
 
 website:
-  site-url: https://kaniz461.github.io/kfatemaa/
+  title: "KANIZ FATEMA"
+  site-url: "https://kaniz461.github.io/kfatemaa/"
   search: true
   navbar:
     collapse-below: lg
+    left:
+      - href: index.qmd
+        text: Home
     right:
       - href: research.qmd
         text: Research
