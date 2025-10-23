@@ -32,3 +32,41 @@
 hr {
   margin: 2rem 0;
 }
+
+/* Profile image */
+.profile-photo {
+  width: 240px;
+  height: 240px;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+}
+
+/* Heading and name */
+h1 {
+  font-weight: 700;
+  font-size: 2.2rem;
+  letter-spacing: 0.5px;
+}
+
+/* Lead paragraph styling */
+.lead {
+  font-size: 1.05rem;
+  color: #444;
+}
+
+/* Contact line */
+.contact-line a {
+  color: #6f42c1;
+  text-decoration: none;
+  font-weight: 500;
+}
+.contact-line a:hover {
+  text-decoration: underline;
+}
+
+/* General page spacing */
+.container {
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
