@@ -22,23 +22,8 @@ kfatema@email.sc.edu
 
 ---
 
-**Update:** Currently working on my dissertation research focusing on [statistical methods/applications in your field]!
 
-**Update 2:** Presented my work on [specific topic] at [conference/seminar name] in [semester/year]. Looking forward to [upcoming conference/defense/publication]!
-
-Hi! I am a Ph.D. student in Statistics at [University of South Carolina](https://www.sc.edu/) advised by [Dr. Advisor Name]. During my Ph.D., I have worked as a Graduate Research and Teaching Assistant, gaining experience in [statistical consulting, data analysis, course instruction, etc.]. I previously worked as [previous position] at [organization] focusing on [brief description].
-
-I am interested in statistical modeling, machine learning applications, and data analysis with real-world impact. My research focuses on [Bayesian methods / time series analysis / survival analysis / biostatistics / your specific area], with applications in [healthcare / economics / social sciences / your field]. My work includes:
-
-1. **Statistical methodology development**
-   - [Project description - e.g., "Developing Bayesian hierarchical models for longitudinal data"]
-   - [Another project or paper]
-
-2. **Data analysis and visualization**
-   - [Work description - e.g., "Analyzing public health data using R and creating interactive dashboards"]
-
-3. **Applied research in [specific field]**
-   - [Collaboration or project description]
+Hi! I am a Ph.D. student in Statistics at [University of South Carolina](https://www.sc.edu/) advised by [Dr. David Hitchcock]. During my Ph.D., I have worked as a Graduate Research and Teaching Assistant. In my doctoral research, I focus on the spatio-temporal analysis of wildland fire data, examining how biomass consumption and energy release influence fire behavior. Using thermal measurements collected from prescribed burns in longleaf-pine ecosystems, my work links biomass consumption to fire dynamics through advanced spatio-temporal modeling.
 
 ---
 
