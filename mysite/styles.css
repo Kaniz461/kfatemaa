@@ -69,4 +69,14 @@ a:hover {
 body.about-page .navbar-brand {
   display: none;
 }
+/* hide the site title / brand in the navbar on the About page only */
+.about-page .navbar-brand,
+.about-page .quarto-site-title {
+  display: none !important;
+}
+
+/* optional: move navbar links slightly left when title hidden */
+.about-page .navbar-container .navbar-nav {
+  margin-left: 0.5rem;
+}
 
