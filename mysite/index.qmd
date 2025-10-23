@@ -2,38 +2,40 @@
 title: ""
 ---
 
-# Kaniz Fatema
+::: {layout="[35,65]"}
+![](images/kaniz_profile.jpg){fig-alt="Kaniz Fatema" width=300px style="border-radius: 8px;"}
 
-::: {layout="[30,70]"}
-kaniz_profile.jpg){fig-alt="Kaniz Fatema" width=250px}
+<div>
+Ph.D. Student in Statistics  
+[Department of Statistics](https://sc.edu/study/colleges_schools/artsandsciences/statistics/)  
+[School of College of Arts and Sciences](https://sc.edu/study/colleges_schools/artsandsciences/)  
+[University of South Carolina](https://www.sc.edu/)
 
-Ph.D. Student in [Statistics]  
-[Deaortment of statistics]  
-[College of Arts and Sciences]  
-[ University of South Carolina]
-
-kaniz [at] email [dot] edu  
-[CV](kaniz_resume.pdf) / [Google Scholar](link) / [LinkedIn](https://www.linkedin.com/in/kaniz-fatema-229186228/) / [GitHub](https://github.com/Kaniz461)
+kfatema [at] email [dot] sc [dot] edu  
+[CV](files/kaniz_resume.pdf) / [Google Scholar](#) / [LinkedIn](https://www.linkedin.com/in/kaniz-fatema-229186228/)
+</div>
 :::
 
 ---
 
-**Update:** [Your latest news or announcement - current position, internship, etc.]
+**Update:** [Your latest news - e.g., "Currently working on [project name] focusing on [topic] for my dissertation research!"]
 
-**Update 2:** [Another recent update about research, publications, or achievements]
+**Update 2:** [Another recent update - e.g., "Presented my work on [topic] at [conference name] in [month year]. Looking forward to [upcoming plans]!"]
 
-Hi! I am a Ph.D. student in [Your Field] at [University] advised by [Dr. Advisor Name]. [Add a sentence about any internships, collaborations, or previous research experience].
+Hi! I am a Ph.D. student in Statistics at [University of South Carolina](https://www.sc.edu/) advised by [Dr. Advisor Name](link). During my Ph.D., I have [mention any internships, research assistantships, or teaching experience]. I was also a [previous position/role] with [organization/lab] working on [brief description of work].
 
-I am interested in [your research interests - be specific about topics, methodologies, and applications]. My focus has been on [specific areas you're working on].
+I am interested in [your research interests - be specific about statistical methods, applications, or fields]. My focus has been on [specific areas you're working on - e.g., Bayesian methods, machine learning, time series analysis, etc.]. My past work has been focused on:
 
-My research includes:
-
-1. **[Research Area 1]**
-   - [Specific project or paper with link]
+1. **Statistical modeling and inference**
+   - [Specific project or method with link to paper/project]
    - [Another contribution]
 
-2. **[Research Area 2]**
-   - [Specific project or paper with link]
+2. **Data analysis and visualization**
+   - [Specific work with link]
 
-3. **[Research Area 3]**
-   - [Specific work]
+3. **Applied statistics in [field]**
+   - [Specific application or project]
+
+---
+
+*© Copyright 2025 Kaniz Fatema. Powered by Quarto*
