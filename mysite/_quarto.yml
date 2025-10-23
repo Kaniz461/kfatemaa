@@ -13,6 +13,7 @@ execute:
   freeze: auto
 
 website:
+  title: "Kaniz Fatema"        # ← your name (shows at top left)
   site-url: "https://kaniz461.github.io/kfatemaa/"
   search: true
   navbar:
