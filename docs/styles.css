@@ -1,23 +1,34 @@
+/* profile photo styling like the example */
 .profile-photo {
-  border-radius: 10px;
-  max-width: 220px;
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
 }
 
+/* name and spacing */
+.name {
+  font-size: 2.25rem;
+  margin-top: 0.25rem;
+  margin-bottom: 0.5rem;
+}
+
+/* lead paragraph style */
 .lead {
-  font-size: 1.05rem;
-  color: #333;
+  color: #555;
+  font-size: 1rem;
 }
 
-.container {
-  margin-top: 1rem;
-  margin-bottom: 2rem;
+/* contact/link appearance */
+.contact-line a {
+  color: #6f2a8f; /* purple-ish like the example; pick another if you like */
+  text-decoration: none;
+}
+.contact-line a:hover {
+  text-decoration: underline;
 }
 
-@media (max-width: 767px) {
-  .profile-photo {
-    display: block;
-    margin: 0 auto 1rem;
-    max-width: 180px;
-  }
+/* horizontal rule spacing */
+hr {
+  margin: 2rem 0;
 }
