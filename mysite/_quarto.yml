@@ -19,15 +19,13 @@ website:
     collapse-below: lg
     right:
       - href: index.qmd
-        text: Home
+        text: About
       - href: research.qmd
         text: Research
       - href: project.qmd
         text: Project
       - href: publication.qmd
         text: Publication
-      - href: about.qmd
-        text: About
       - icon: github
         href: https://github.com/Kaniz461/kfatemaa
         aria-label: GitHub
