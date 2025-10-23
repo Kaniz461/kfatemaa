@@ -20,8 +20,6 @@ website:
     right:
       - href: index.qmd
         text: About
-      - href: research.qmd
-        text: Research
       - href: project.qmd
         text: Project
       - href: publication.qmd
