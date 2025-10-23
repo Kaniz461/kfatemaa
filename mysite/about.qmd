@@ -15,7 +15,8 @@ format: html
 
 <p class="lead">
 Ph.D. Student in Statistics<br>
-Department of Statistics • School of College of Arts and Sciences<br>
+Department of Statistics <br> 
+School of College of Arts and Sciences<br>
 <em>University of South Carolina</em>
 </p>
 
