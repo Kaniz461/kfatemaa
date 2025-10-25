@@ -131,4 +131,7 @@ html[data-theme="dark"] {
 body, html {
   transition: background-color 0.25s ease, color 0.25s ease;
 }
+:root[data-bs-theme="dark"] .navbar-brand img {
+  filter: invert(1);
+}
 

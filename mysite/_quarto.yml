@@ -30,7 +30,7 @@ format:
   html:
     theme:
       light: cosmo
-      dark: cyborg
+      dark: slate
     toggle: true
     css: styles.css
     toc: true
