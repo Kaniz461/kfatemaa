@@ -25,9 +25,6 @@ website:
         text: Project
       - href: publication.qmd
         text: Publication
-      - icon: github
-        href: https://github.com/Kaniz461
-        aria-label: GitHub
 
 format:
   html:
