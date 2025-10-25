@@ -134,4 +134,29 @@ body, html {
 :root[data-bs-theme="dark"] .navbar-brand img {
   filter: invert(1);
 }
+/* Light-mode background and text colors */
+body.quarto-light {
+  background-color: #eeeeee !important;   /* soft gray */
+  color: #222222;                         /* dark text for readability */
+}
+
+/* Link color */
+body.quarto-light a {
+  color: #0070cc;                         /* blue links */
+}
+body.quarto-light a:hover {
+  color: #005fa3;
+  text-decoration: underline;
+}
+
+/* Dark-mode background (optional) */
+body.quarto-dark {
+  background-color: #121212 !important;
+  color: #e6e6e6;
+}
+
+/* Transition for smooth mode switch */
+body, html {
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
 
