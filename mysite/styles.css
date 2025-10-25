@@ -79,4 +79,10 @@ body.about-page .navbar-brand {
 .about-page .navbar-container .navbar-nav {
   margin-left: 0.5rem;
 }
+img[src*="#icon"] {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  margin-right: 8px;
+}
 
