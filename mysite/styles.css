@@ -104,4 +104,31 @@ body[data-bs-theme="light"] {
 body {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
+/* Light / dark selectors that match Quarto output */
+body.quarto-light,
+html.quarto-light,
+body[data-theme="light"],
+html[data-theme="light"] {
+  background-color: #f2edf9 !important; /* light lavender — change to any hex you prefer */
+  color: #222;                           /* optional: darker text for contrast */
+}
+
+body.quarto-dark,
+html.quarto-dark,
+body[data-theme="dark"],
+html[data-theme="dark"] {
+  background-color: #121212 !important; /* dark background */
+  color: #e6e6e6;                       /* lighter text for dark bg */
+}
+
+/* Ensure full-page background (cover any containers) */
+.quarto-container,
+.quarto-container .page {
+  background-color: transparent;
+}
+
+/* smooth transition when switching theme */
+body, html {
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
 
