@@ -18,10 +18,11 @@ Ph.D. Student in Statistics
 [School of College of Arts and Sciences](https://sc.edu/study/colleges_schools/artsandsciences/)  
 [University of South Carolina](https://www.sc.edu/)
 
-[![](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/minutemailer.svg){width=22px}](mailto:kfatema@email.sc.edu)
-[![](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeacrobatreader.svg){width=22px}](files/kaniz_resume.pdf)
-[![](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg){width=22px}](https://github.com/Kaniz461)
-[![](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg){width=22px}](https://www.linkedin.com/in/kaniz-fatema-229186228/)
+[![](https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg){width=24px}](mailto:kfatema@email.sc.edu)
+[![](https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg){width=24px}](files/kaniz_resume.pdf)
+[![](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg){width=24px}](https://github.com/Kaniz461)
+[![](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg){width=24px}](https://www.linkedin.com/in/kaniz-fatema-229186228/)
+
 
 
 
