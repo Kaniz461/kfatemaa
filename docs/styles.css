@@ -97,12 +97,7 @@ a > img:hover {
 }
 /* Light mode background */
 body[data-bs-theme="light"] {
-  background-color: #f4f3f9; /* soft grayish purple – easy on eyes */
-}
-
-/* Dark mode background */
-body[data-bs-theme="dark"] {
-  background-color: #181818; /* deep charcoal for good contrast */
+  background-color: #f2edf9; /* soft grayish purple – easy on eyes */
 }
 
 /* Optional – add a smooth color transition */
