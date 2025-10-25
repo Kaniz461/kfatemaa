@@ -85,4 +85,14 @@ img[src*="#icon"] {
   vertical-align: middle;
   margin-right: 8px;
 }
+/* control spacing and hover color for Markdown image icons */
+a > img {
+  vertical-align: middle;
+  margin-right: 10px;
+  transition: transform 0.2s ease;
+}
+
+a > img:hover {
+  transform: scale(1.2);
+}
 
