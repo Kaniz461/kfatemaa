@@ -7,7 +7,7 @@ page-layout: full
 ::: columns
 
 ::: column
-[![Biochar Project Presentation](images/biochar.png){width="100%"}](files/Biochar_Presentation.pdf){target="_blank" rel="noopener"}
+[![](images/biochar.png){width="100%"}](files/Biochar_Presentation.pdf){target="_blank" rel="noopener"}
 :::
 
 ::: column
@@ -17,6 +17,22 @@ This project explores the effects of biochar on soil and vegetation, and models 
 
 [Presentation](files/Biochar_Presentation.pdf){ .btn .outline target="_blank" rel="noopener" }  
 [Project Document](files/Biochar_Project.pdf){ .btn .outline target="_blank" rel="noopener" }
+:::
+
+:::
+
+::: columns
+
+::: column
+[![](images/neural.png){width="100%"}](files/neural.pdf){target="_blank" rel="noopener"}
+:::
+
+::: column
+
+
+Neural Networks for Parameter Estimation in Intractable Models
+
+[Presentation](files/neural.pdf){ .btn .outline target="_blank" rel="noopener" }  
 :::
 
 :::
