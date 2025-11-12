@@ -3,7 +3,6 @@ title: "Projects"
 page-layout: full
 ---
 
-
 ::: columns
 
 ::: column
@@ -12,11 +11,11 @@ page-layout: full
 
 ::: column
 
-
 This project explores the effects of biochar on soil and vegetation, and models how biomass consumption influences wildfire spread using spatio-temporal statistical approaches. Click the buttons below to open the presentation or download the project document.
 
 [Presentation](files/Biochar_Presentation.pdf){ .btn .outline target="_blank" rel="noopener" }  
 [Project Document](files/Biochar_Project.pdf){ .btn .outline target="_blank" rel="noopener" }
+
 :::
 
 :::
@@ -29,10 +28,10 @@ This project explores the effects of biochar on soil and vegetation, and models 
 
 ::: column
 
-
 Neural Networks for Parameter Estimation in Intractable Models
 
 [Presentation](files/neural.pdf){ .btn .outline target="_blank" rel="noopener" }  
+
 :::
 
 :::
