@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Projects",
     "section": "",
-    "text": "KANIZ FATEMA\n\n\nPh.D. Student in Statistics Department of Statistics  School of College of Arts and Sciences University of South Carolina\n\n\n  kfatema@email.sc.edu   •   GitHub   •   LinkedIn   •   CV\n\n\n\n\n\n\n\nUpdate: Back at CMU after an internship at Microsoft Research.\n\n\nHi! I am a Ph.D. student in Software Engineering at Carnegie Mellon University advised by … During my Ph.D., I have worked on safe robot learning, large language models, and AI safety.\n\n\nResearch Interests\n\n\n\nSafe and robust robot learning\n\n\nReinforcement learning and control barrier functions\n\n\nFoundation models for embodied AI"
+    "text": "Selected Projects\n\n\n&lt;!-- image linked to the file --&gt;\n&lt;a href=\"files/Biochar_Presentation.pdf\" target=\"_blank\" rel=\"noopener\"&gt;\n  &lt;img src=\"images/biochar.png\" alt=\"Biochar Project Presentation\"&gt;\n&lt;/a&gt;\n\n\n&lt;h2&gt;Biochar and Wildfire Modeling — Presentation&lt;/h2&gt;\n&lt;p class=\"lead\"&gt;\n  This project explores the effects of biochar on soil and vegetation, and models how biomass consumption influences wildfire spread using spatio-temporal statistical approaches. \n  Click below to open the project presentation or view supporting documentation.\n&lt;/p&gt;\n\n&lt;div class=\"hero-buttons\"&gt;\n  &lt;a class=\"btn\" href=\"files/Biochar_Presentation.pdf\" target=\"_blank\" rel=\"noopener\"&gt;Open Presentation&lt;/a&gt;\n  &lt;a class=\"btn outline\" href=\"files/Biochar_Project.pdf\" target=\"_blank\" rel=\"noopener\"&gt;Download Project Document&lt;/a&gt;\n&lt;/div&gt;"
   },
   {
     "objectID": "index.html",
