@@ -6,23 +6,21 @@ page-layout: full
 # Selected Projects
 
 <section class="project-hero">
-  <div class="hero-left">
-    <!-- image linked to the file -->
-    <a href="files/Biochar_Presentation.pdf" target="_blank" rel="noopener">
-      <img src="images/biochar.png" alt="Biochar Project Presentation">
-    </a>
-  </div>
+<div class="hero-left">
+<a href="files/Biochar_Presentation.pdf" target="_blank" rel="noopener">
+  <img src="images/biochar.png" alt="Biochar Project Presentation">
+</a>
+</div>
 
-  <div class="hero-right">
-    <h2>Biochar and Wildfire Modeling — Presentation</h2>
-    <p class="lead">
-      This project explores the effects of biochar on soil and vegetation, and models how biomass consumption influences wildfire spread using spatio-temporal statistical approaches. 
-      Click below to open the project presentation or view supporting documentation.
-    </p>
+<div class="hero-right">
+<h2>Biochar and Wildfire Modeling — Presentation</h2>
+<p class="lead">
+  This project explores the effects of biochar on soil and vegetation, and models how biomass consumption influences wildfire spread using spatio-temporal statistical approaches. Click below to open the project presentation or view supporting documentation.
+</p>
 
-    <div class="hero-buttons">
-      <a class="btn" href="files/Biochar_Presentation.pdf" target="_blank" rel="noopener">Open Presentation</a>
-      <a class="btn outline" href="files/Biochar_Project.pdf" target="_blank" rel="noopener">Download Project Document</a>
-    </div>
-  </div>
+<div class="hero-buttons">
+  <a class="btn" href="files/Biochar_Presentation.pdf" target="_blank" rel="noopener">Open Presentation</a>
+  <a class="btn outline" href="files/Biochar_Project.pdf" target="_blank" rel="noopener">Download Project Document</a>
+</div>
+</div>
 </section>
