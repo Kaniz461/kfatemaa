@@ -3,22 +3,19 @@ title: "Projects"
 page-layout: full
 ---
 
-<section class="project-hero">
-<div class="hero-left">
-<a href="files/Biochar_Presentation.pptx" target="_blank" rel="noopener">
-  <img src="images/biochar.png" alt="Biochar Project Presentation">
-</a>
-</div>
+# Selected Projects
 
-<div class="hero-right">
-<h2>Biochar and Wildfire Modeling — Presentation</h2>
-<p class="lead">
-  This project explores the effects of biochar on soil and vegetation, and models how biomass consumption influences wildfire spread using spatio-temporal statistical approaches. Click below to open the project presentation or view supporting documentation.
-</p>
+::: {.project-hero}
+::: {.hero-left}
+[![Biochar Project Presentation](images/biochar.png)](files/Biochar_Presentation.pdf){target="_blank" rel="noopener"}
+:::
 
-<div class="hero-buttons">
-  <a class="btn" href="files/Biochar_Presentation.pptx" target="_blank" rel="noopener">Open Presentation</a>
-  <a class="btn outline" href="files/Biochar_Project.pdf" target="_blank" rel="noopener">Download Project Document</a>
-</div>
-</div>
-</section>
+::: {.hero-right}
+## Biochar and Wildfire Modeling — Presentation
+
+This project explores the effects of biochar on soil and vegetation, and models how biomass consumption influences wildfire spread using spatio-temporal statistical approaches. Click below to open the project presentation or view supporting documentation.
+
+[Open Presentation](files/Biochar_Presentation.pdf){ .btn target="_blank" rel="noopener" }
+[Download Project Document](files/Biochar_Project.pdf){ .btn .outline target="_blank" rel="noopener" }
+:::
+:::
