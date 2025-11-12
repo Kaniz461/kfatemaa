@@ -159,4 +159,68 @@ body.quarto-dark {
 body, html {
   transition: background-color 0.25s ease, color 0.25s ease;
 }
+/* HERO two-column card */
+.project-hero {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  align-items: center;
+  background: #fff;
+  border-radius: 10px;
+  padding: 2rem;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+  margin: 1rem 0 3rem 0;
+}
+
+.hero-left img {
+  width: 100%;
+  height: calc(60vh);
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+}
+
+/* text side */
+.hero-right h2 {
+  font-size: 2.2rem;
+  margin: 0 0 0.7rem 0;
+}
+.hero-right .lead {
+  color: #555;
+  font-size: 1.05rem;
+  line-height: 1.5;
+  max-width: 42rem;
+}
+
+/* buttons */
+.hero-buttons {
+  margin-top: 1.1rem;
+  display: flex;
+  gap: 0.8rem;
+}
+.btn {
+  display: inline-block;
+  padding: .6rem 1rem;
+  border-radius: 6px;
+  background: #0b66c3;
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+}
+.btn.outline {
+  background: transparent;
+  color: #0b66c3;
+  border: 1px solid #0b66c3;
+}
+
+/* Responsive: stack on small screens */
+@media (max-width: 900px) {
+  .project-hero {
+    grid-template-columns: 1fr;
+    padding: 1rem;
+  }
+  .hero-left img {
+    height: 40vh;
+  }
+}
 
