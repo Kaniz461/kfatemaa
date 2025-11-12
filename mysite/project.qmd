@@ -7,18 +7,22 @@ page-layout: full
 
 <section class="project-hero">
   <div class="hero-left">
+    <!-- image linked to the file -->
     <a href="files/Biochar_Presentation.pdf" target="_blank" rel="noopener">
-      <img src="images/biochar.png" alt="Biochar Presentation">
+      <img src="images/biochar.png" alt="Biochar Project Presentation">
     </a>
   </div>
 
   <div class="hero-right">
-    <h2>Wildfire & Biochar — Presentation</h2>
-    <p class="lead">Bayesian hierarchical spatio-temporal modeling of biomass consumption and wildfire behavior; presentation shows methods, results, and next steps.</p>
+    <h2>Biochar and Wildfire Modeling — Presentation</h2>
+    <p class="lead">
+      This project explores the effects of biochar on soil and vegetation, and models how biomass consumption influences wildfire spread using spatio-temporal statistical approaches. 
+      Click below to open the project presentation or view supporting documentation.
+    </p>
 
     <div class="hero-buttons">
-      <a class="btn" href="files/Biochar project.pdf" target="_blank" rel="noopener">Open Presentation (PDF)</a>
-      <a class="btn outline" href="files/Project_Document.docx" target="_blank" rel="noopener">Download Project Doc</a>
+      <a class="btn" href="files/Biochar_Presentation.pdf" target="_blank" rel="noopener">Open Presentation</a>
+      <a class="btn outline" href="files/Biochar_Project.pdf" target="_blank" rel="noopener">Download Project Document</a>
     </div>
   </div>
 </section>
