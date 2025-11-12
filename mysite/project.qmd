@@ -3,8 +3,6 @@ title: "Projects"
 page-layout: full
 ---
 
-# Selected Projects
-
 <section class="project-hero">
 <div class="hero-left">
 <a href="files/Biochar_Presentation.pptx" target="_blank" rel="noopener">
