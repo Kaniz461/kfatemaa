@@ -3,19 +3,10 @@ title: "Projects"
 page-layout: full
 ---
 
-# Selected Projects
 
-::: {.project-hero}
-::: {.hero-left}
-[![Biochar Project Presentation](images/biochar.png)](files/Biochar_Presentation.pdf){target="_blank" rel="noopener"}
-:::
+|  |  |
+|---|---|
+| [![Biochar Project Presentation](images/biochar.png){width=100%}](files/Biochar_Presentation.pdf){target="_blank" rel="noopener"} | ### Biochar and Wildfire Modeling — Presentation  
+This project explores the effects of biochar on soil and vegetation, and models how biomass consumption influences wildfire spread using spatio-temporal statistical approaches. Click below to open the project presentation or view supporting documentation.  
 
-::: {.hero-right}
-## Biochar and Wildfire Modeling — Presentation
-
-This project explores the effects of biochar on soil and vegetation, and models how biomass consumption influences wildfire spread using spatio-temporal statistical approaches. Click below to open the project presentation or view supporting documentation.
-
-[Open Presentation](files/Biochar_Presentation.pdf){ .btn target="_blank" rel="noopener" }
-[Download Project Document](files/Biochar_Project.pdf){ .btn .outline target="_blank" rel="noopener" }
-:::
-:::
+[Open Presentation](files/Biochar_Presentation.pdf){ .btn target="_blank" rel="noopener" } &nbsp;&nbsp; [Download Project Document](files/Biochar_Project.pdf){ .btn .outline target="_blank" rel="noopener" } |
