@@ -7,7 +7,7 @@ page-layout: full
 
 <section class="project-hero">
 <div class="hero-left">
-<a href="files/Biochar_Presentation.pdf" target="_blank" rel="noopener">
+<a href="files/Biochar_Presentation.pptx" target="_blank" rel="noopener">
   <img src="images/biochar.png" alt="Biochar Project Presentation">
 </a>
 </div>
@@ -19,7 +19,7 @@ page-layout: full
 </p>
 
 <div class="hero-buttons">
-  <a class="btn" href="files/Biochar_Presentation.pdf" target="_blank" rel="noopener">Open Presentation</a>
+  <a class="btn" href="files/Biochar_Presentation.pptx" target="_blank" rel="noopener">Open Presentation</a>
   <a class="btn outline" href="files/Biochar_Project.pdf" target="_blank" rel="noopener">Download Project Document</a>
 </div>
 </div>
