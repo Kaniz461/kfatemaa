@@ -7,7 +7,7 @@ page-layout: full
 ::: columns
 
 ::: column
-[![Biochar Project Presentation](images/biochar.png){width="100%"}](files/Biochar_Presentation.pptx){target="_blank" rel="noopener"}
+[![Biochar Project Presentation](images/biochar.png){width="100%"}](files/Biochar_Presentation.pdf){target="_blank" rel="noopener"}
 :::
 
 ::: column
@@ -15,7 +15,7 @@ page-layout: full
 
 This project explores the effects of biochar on soil and vegetation, and models how biomass consumption influences wildfire spread using spatio-temporal statistical approaches. Click the buttons below to open the presentation or download the project document.
 
-[Presentation](files/Biochar_Presentation.pptx){ .btn .outline target="_blank" rel="noopener" }  
+[Presentation](files/Biochar_Presentation.pdf){ .btn .outline target="_blank" rel="noopener" }  
 [Project Document](files/Biochar_Project.pdf){ .btn .outline target="_blank" rel="noopener" }
 :::
 
