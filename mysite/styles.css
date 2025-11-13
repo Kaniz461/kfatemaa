@@ -479,4 +479,12 @@ hr, .border-color, .underline {
   border-color: #d46a1f !important;
 }
 
+.cv-icon img {
+  width: 40px;
+  transition: transform 0.2s ease, filter 0.2s ease;
+}
+.cv-icon img:hover {
+  transform: scale(1.05);
+  filter: hue-rotate(330deg) brightness(1.1); /* shifts blue→orange tone */
+}
 
