@@ -413,3 +413,70 @@ div.column + div.column,
 /* keep your buttons tidy */
 .project-text .btn { margin-right: 0.75rem !important; margin-bottom: 0.5rem !important; }
 
+/* ===== ORANGE THEME UPDATE ===== */
+
+/* Headings and text highlights */
+.project-text h2,
+h1, h2, h3, h4, h5, h6 {
+  color: #d46a1f !important;      /* warm orange */
+}
+
+/* Buttons (solid and outline) */
+.btn {
+  background: #d46a1f !important;
+  color: #fff !important;
+  border: 2px solid #d46a1f !important;
+}
+
+.btn:hover {
+  background: #b84e09 !important; /* darker orange on hover */
+  border-color: #b84e09 !important;
+  color: #fff !important;
+}
+
+/* Outline button style */
+.btn.outline {
+  background: transparent !important;
+  color: #d46a1f !important;
+  border: 2px solid #d46a1f !important;
+}
+
+.btn.outline:hover {
+  background: #d46a1f !important;
+  color: #fff !important;
+}
+
+/* Link color (navbar, hyperlinks, etc.) */
+a,
+.navbar a,
+a:link,
+a:visited {
+  color: #d46a1f !important;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #b84e09 !important;
+  text-decoration: underline;
+}
+
+/* Navbar active link */
+.navbar .nav-link.active,
+.navbar .nav-link:hover {
+  color: #b84e09 !important;
+  font-weight: 600;
+}
+
+/* Search or icon colors if used */
+.icon,
+svg {
+  fill: #d46a1f !important;
+  color: #d46a1f !important;
+}
+
+/* Lines, borders, horizontal rules in orange tone */
+hr, .border-color, .underline {
+  border-color: #d46a1f !important;
+}
+
+
