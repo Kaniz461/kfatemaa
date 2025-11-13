@@ -390,7 +390,7 @@ div.project-text > h2,
   font-weight: 800 !important;       /* bold */
   font-style: italic !important;
   font-family: "Georgia", serif !important;
-  color: #003366 !important;         /* dark blue */
+  color: #b34700 !important;         /* dark blue */
   margin-top: 0 !important;
   margin-bottom: 0.75rem !important;
   line-height: 1.05 !important;
@@ -477,14 +477,6 @@ svg {
 /* Lines, borders, horizontal rules in orange tone */
 hr, .border-color, .underline {
   border-color: #d46a1f !important;
-}
-.project-text h2 {
-  font-weight: 800;
-  font-style: italic;
-  font-family: "Georgia", serif;
-  color: #b34700;      /* dark orange */
-  margin-top: 0;
-  margin-bottom: 0.75rem;
 }
 
 
