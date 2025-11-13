@@ -383,4 +383,33 @@ body, html {
   margin-right: 0.75rem;
   margin-bottom: 0.5rem;
 }
+/* stronger, high-specificity project heading & spacing */
+div.project-text > h2,
+.section .project-text h2,
+.project-hero .project-text h2 {
+  font-weight: 800 !important;       /* bold */
+  font-style: italic !important;
+  font-family: "Georgia", serif !important;
+  color: #003366 !important;         /* dark blue */
+  margin-top: 0 !important;
+  margin-bottom: 0.75rem !important;
+  line-height: 1.05 !important;
+  letter-spacing: 0.2px !important;
+}
+
+/* spacing between the two columns */
+div.column + div.column,
+.column + .column {
+  padding-left: 3rem !important;
+}
+
+/* paragraph */
+.project-text p {
+  font-size: 1.05rem !important;
+  color: #333a3f !important;
+  margin-bottom: 1rem !important;
+}
+
+/* keep your buttons tidy */
+.project-text .btn { margin-right: 0.75rem !important; margin-bottom: 0.5rem !important; }
 
