@@ -12,7 +12,7 @@ page-layout: full
 ::: column
 
 <div class="project-text">
-  <h2>Pyrolysis of Biochar and growth effects on plants</h2>
+  <h2>Evaluating the Effects of Biochar on Growth and Elemental Accumulation in Multiple Crops</h2>
   <p>
     This project analyzes biochar effects on soil and vegetation using <strong><em>Principal Component Analysis (PCA)</em></strong>, <strong><em>K-Means clustering</em></strong>, and <strong><em>ANOVA</em></strong>.
   </p>
