@@ -6,12 +6,17 @@ page-layout: full
 ::: columns
 
 ::: column
-[![](images/biochar.png){width="100%"}](files/Biochar_Presentation.pdf){target="_blank" rel="noopener"}
+[![.](images/biochar.png){width="100%"}](files/Biochar_Presentation.pdf){target="_blank" rel="noopener"}
 :::
 
 ::: column
 
-This project explores the effects of biochar on soil and vegetation, and models how biomass consumption influences wildfire spread using spatio-temporal statistical approaches. Click the buttons below to open the presentation or download the project document.
+<div class="project-text">
+  <h2>Biochar and Wildfire Modeling</h2>
+  <p>
+    <em>This project explores the effects of biochar on soil and vegetation, and models how biomass consumption influences wildfire spread using spatio-temporal statistical approaches.</em>
+  </p>
+</div>
 
 [Presentation](files/Biochar_Presentation.pdf){ .btn .outline target="_blank" rel="noopener" }  
 [Project Document](files/Biochar_Project.pdf){ .btn .outline target="_blank" rel="noopener" }
@@ -23,12 +28,17 @@ This project explores the effects of biochar on soil and vegetation, and models 
 ::: columns
 
 ::: column
-[![](images/neural.png){width="100%"}](files/neural.pdf){target="_blank" rel="noopener"}
+[![.](images/neural.png){width="100%"}](files/neural.pdf){target="_blank" rel="noopener"}
 :::
 
 ::: column
 
-Neural Networks for Parameter Estimation in Intractable Models
+<div class="project-text">
+  <h2>Neural Networks for Parameter Estimation in Intractable Models</h2>
+  <p>
+    <em>This project highlights how deep learning methods can estimate parameters in complex models with intractable likelihoods.</em>
+  </p>
+</div>
 
 [Presentation](files/neural.pdf){ .btn .outline target="_blank" rel="noopener" }  
 
