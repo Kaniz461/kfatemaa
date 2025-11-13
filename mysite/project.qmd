@@ -12,9 +12,9 @@ page-layout: full
 ::: column
 
 <div class="project-text">
-  <h2>Biochar and Wildfire Modeling</h2>
+  <h2>Pyrolysis of Biochar and growth effects on plantsg</h2>
   <p>
-    <em>This project explores the effects of biochar on soil and vegetation, and models how biomass consumption influences wildfire spread using spatio-temporal statistical approaches.</em>
+    <em>This project analyzes biochar effects on soil and vegetation using **Principal Component Analysis (PCA)**, **K-Means clustering**, and **ANOVA**. These methods identify key biochar properties, classify nutrient patterns.</em>
   </p>
 </div>
 
