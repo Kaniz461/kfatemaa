@@ -14,7 +14,7 @@ page-layout: full
 <div class="project-text">
   <h2>Pyrolysis of Biochar and growth effects on plantsg</h2>
   <p>
-    <em>This project analyzes biochar effects on soil and vegetation using **Principal Component Analysis (PCA)**, **K-Means clustering**, and **ANOVA**. These methods identify key biochar properties, classify nutrient patterns.</em>
+    This project analyzes biochar effects on soil and vegetation using <em><strong>Principal Component Analysis (PCA)</strong></em>, <em><strong>K-Means clustering</strong></em>, and <em><strong>ANOVA</strong></em>. These methods identify key biochar properties, classify nutrient patterns.
   </p>
 </div>
 
