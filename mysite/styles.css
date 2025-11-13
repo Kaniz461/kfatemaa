@@ -351,4 +351,36 @@ body, html {
   margin-top: 0;
   margin-bottom: 0.5rem;
 }
+/* --- Projects layout tweaks --- */
+
+/* Space between image column and text column */
+.column + .column {
+  padding-left: 3rem;        /* increase as needed */
+}
+
+/* Project heading: bold, italic, dark blue, larger and with small bottom spacing */
+.project-text h2 {
+  font-weight: 800;          /* bold */
+  font-style: italic;
+  font-family: "Georgia", serif;
+  color: #003366;            /* dark blue */
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  line-height: 1.05;
+  letter-spacing: 0.2px;
+}
+
+/* Project paragraph styling (optional: slightly larger & softer color) */
+.project-text p {
+  font-size: 1.05rem;
+  color: #333a3f;
+  margin-bottom: 1rem;
+}
+
+/* Button vertical spacing */
+.project-text .btn {
+  display: inline-block;
+  margin-right: 0.75rem;
+  margin-bottom: 0.5rem;
+}
 
