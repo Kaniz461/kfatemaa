@@ -478,5 +478,13 @@ svg {
 hr, .border-color, .underline {
   border-color: #d46a1f !important;
 }
+.project-text h2 {
+  font-weight: 800;
+  font-style: italic;
+  font-family: "Georgia", serif;
+  color: #b34700;      /* dark orange */
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
 
 
