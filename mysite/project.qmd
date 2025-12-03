@@ -6,7 +6,7 @@ page-layout: full
 ::: columns
 
 ::: column
-[![.](images/high.png){width="100%"}](files/high.pdf){target="_blank" rel="noopener"}
+[![.](images/high.png){width="100%"}](files/718.pdf){target="_blank" rel="noopener"}
 :::
 
 ::: column
@@ -70,7 +70,7 @@ page-layout: full
 ::: columns
 
 ::: column
-[![.](images/anc.png){width="100%"}](files/anc.pdf){target="_blank" rel="noopener"}
+[![.](images/anc.png){width="100%"}](files/thesis.pdf){target="_blank" rel="noopener"}
 :::
 
 ::: column
@@ -82,9 +82,8 @@ page-layout: full
   </p>
 </div>
 
-[Presentation](files/my thesis.pdf){ .btn .outline target="_blank" rel="noopener" }  
+[report](files/thesis.pdf){ .btn .outline target="_blank" rel="noopener" }  
 
 :::
 
 :::
-
