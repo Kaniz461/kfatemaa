@@ -6,6 +6,27 @@ page-layout: full
 ::: columns
 
 ::: column
+[![.](images/high.png){width="100%"}](files/high.pdf){target="_blank" rel="noopener"}
+:::
+
+::: column
+
+<div class="project-text">
+  <h2>Refined Debiased Lasso for High-Dimensional Generalized Linear Models</h2>
+  <p>
+    <em>This project highlights the development of a more stable and accurate debiasing method for high-dimensional GLMs.</em>
+  </p>
+</div>
+
+[Presentation](files/718.pdf){ .btn .outline target="_blank" rel="noopener" }  
+
+:::
+
+:::
+
+::: columns
+
+::: column
 [![.](images/biochar.png){width="100%"}](files/Biochar_Presentation.pdf){target="_blank" rel="noopener"}
 :::
 
