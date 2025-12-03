@@ -66,3 +66,25 @@ page-layout: full
 :::
 
 :::
+
+::: columns
+
+::: column
+[![.](images/anc.png){width="100%"}](files/anc.pdf){target="_blank" rel="noopener"}
+:::
+
+::: column
+
+<div class="project-text">
+  <h2>Predictors of Antenatal Care Count Data in Bangladesh: relative importance analysis</h2>
+  <p>
+    <em>The primary goal of this research is to figure out the factors that are associated with the number of ANC visits.</em>
+  </p>
+</div>
+
+[Presentation](files/my thesis.pdf){ .btn .outline target="_blank" rel="noopener" }  
+
+:::
+
+:::
+
